@@ -1,1 +1,2 @@
-# sn.github.io
+# Time Counter
+![Screenshot](demo.png)
